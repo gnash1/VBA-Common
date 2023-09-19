@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d166afc-568e-4727-b33c-5bbb961c223b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADO Query Tool - Site Migration - Test Adding PostgreSQL to clsDBConnectivity.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Registry.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/Tableau About Box Logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - Tableau Generic.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - Tableau Generic.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - Tableau.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - Tableau.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - ThePieceMaker.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout - ThePieceMaker.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/clsAbout.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/tableau_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/tableau_logo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/tableau_logo3 transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About Box/tableau_logo4 transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automation test FileIO.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calendar/frmCalendar.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calendar/frmCalendar.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChartComboTable.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common Dialog/Legacy/clsCommonDlg.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common Dialog/Legacy/modCommonDlg.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common Dialog/clsCommonDlg.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/ADODB Early and Late binding examples.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Steps to connect to SQL DB via Access.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Steps to get PS session instance used to run SQL Profiler.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTest-Developer Version 1.3.3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTest.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTest1.3.1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTest1.3.2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTestv1.3.xl_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/Test Files/ADODBConnectivityTestv1.3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsCTSXLSQL2K5DBConnectivity.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsMSSQLDBConnectivityADO.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsMSSQLDBConnectivityADO.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsMSSQLDBConnectivityADO_Access.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsMSSQLDBConnectivityADO_Access.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsODBCAPI.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsSQL2K5DBConnectivity Legacy/clsMSSQLDBConnectivityADO.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsSQL2K5DBConnectivity Legacy/clsSQL2K5DBConnectivity.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Legacy/ADODB and ODBC/clsSQL2K5DBConnectivity Legacy/clsSQL2K5DBConnectivity.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/Corrupt/clsADODBConnectivity.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/Corrupt/clsADODBConnectivity.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/DB Connectivity.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/clsDBConnectivity.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/clsDBConnectivity.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Connectivity/Universal/clsDBConnectivity.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Export Project to Excel.xlam" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FaceID Workbook.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gmail SMTP Test.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List Selection/frmListSelection.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List Selection/frmListSelection.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Log/clsLog.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Log/clsLog.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Class Name of MSO 2007 NetUIHWND sub Items.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Form1.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Form2.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Module1.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Project1.vbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/EnumWindowsTest/Project1.vbw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Legacy/clsMSOfficeProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Legacy/clsMSOfficeProgressBar11.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Legacy/clsMSOfficeProgressBar12.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/MSOffice Progress Test Loader.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/MarqueeTicker - Could be used as replacement for Marquee functionality.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/ApplyingThemes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/C# code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarClassTest.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Copy of ProgressBarClassModified - 2 Tests.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Copy of ProgressBarClassModified - B.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Excel 2003 Progress Bar Large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Excel 2003 Progress Bar.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Progress Bar 5-10 per second.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBar Sample Application/Form1.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBar Sample Application/Project1.vbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBar Sample Application/Project1.vbw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBar Web Links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBarClass.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBarClassModified - 2 Tests.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBarClassModified - 3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/ProgressBarClassModified - 4.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Progressbar_XP_Style.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Progressbar_XP_Style/Progressbar_XP_Style Modified.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Progressbar_XP_Style/Progressbar_XP_Style.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Read Me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Simple Demo Progress.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration/TestProgressBar6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration/frmTest.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration/frmTest.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration/pTest6.vbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Demonstration/pTest6.vbw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/Release/vbalProgBar6.ocx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/TestProgressBar6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/frmTest.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/frmTest.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/gTestVBALProg6.vbg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/pTest6.vbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/pTest6.vbw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/pcDibSection.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/pcMemDC.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/vbalProg6.vbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/vbalProg6.vbw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/vbalProgressBar.ctl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/VB6_Progress_Bar_Control_Source_Code/vbalProgressBar.ctx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/Very Nice XP Progress Bar/vbalProgBar6.ocx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/clsExcelProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/Excel LED Status/clsProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/ProgressBar Test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/ProgressBar Test2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/ProgressBarTest/clsExcelProgressBarTestWithoutManifest.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/clsExcelProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/Legacy/modExcelProgressBar.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Excel Progress Bar/ProgressBar Test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/New Folder/ProgressBar Test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/New Folder/VB6MSOfficeProgressBarClass.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/New Folder/clsMSOfficeProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Owner Drawn Progress Bar/ProgressBarClass.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project Progress Bar/Project1.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project Progress Bar/Project2.1- Universal Office App Test With Status Bar Background.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project Progress Bar/Project2.1- Universal Office App Test.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project Progress Bar/Project2.1- Universal Office Application Progress Bar.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project2.1.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Research/Project2.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/Test App.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/clsMSOfficeProgressBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/clsMSOfficeProgressBarLegacy - With .Net Notes.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Office Progress Bar/clsMSOfficeProgressBar_AccessCustomizations.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Project Integration Files/ResourceWorkInTest.mpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Project Integration Files/clsProject.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Project Integration Files/clsProject.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS Project Integration Files/modProModel.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outlining Example/Outlining Sample - Import Sheet v6 27-Feb Data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powered by ProModel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powered by ProModel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProModelLogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Registry.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharePointTestNotes.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tableau/PDF Automation - URL Parameter Spreadsheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tableau/TabCmd.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeCard Automation.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Toolbar and Menu Customizations/CustomCommandBar/clsCustomCommandBar.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Toolbar and Menu Customizations/CustomCommandBar/clsCustomCommandBarEvents.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VBA - TrappableErrors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Visual Basic for Applications.mht" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Win32API_TXT.mht" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Win32API_TXT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chtProjectTS.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsCollection.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsDictionary.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsExcel/clsExcel.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsExcel/clsExcel.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsGetObjectExcel.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsPositionWindow.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsProject/clsProject.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsProject/clsProject.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsShireChartBuilder.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsTabCmd.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clsXML.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frmListSelection.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frmListSelection.frx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modAPI.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modAPIRegistryExampleUse.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modBreakPasswordTest.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modCheckAndKillProcessByName.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modExcelNotes.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modFaceIDsExample.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modFileIO.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modInternational.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modMSExcelCommon.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modMSProjectCommon.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modMainCommon.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modOLAP.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modOneNote.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modPivotInfo.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modPortfolioSimulatorCommon.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modQuery.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modServiceManager.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modShell.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modSort.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modSubclassing.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modTaskManager.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modWMI_SampleCode.bas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modWorkArea.bas" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VcW7UWh04xFtkm11OqAJlDU0M2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Common" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d166afc-568e-4727-b33c-5bbb961c223b" name="Changes" comment="" />
+      <created>1695135682115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695135682115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
